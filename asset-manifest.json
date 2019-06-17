@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Technical-Page/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Technical-Page/static/js/main.cbcd77d6.chunk.js",
+    "main.js.map": "/Technical-Page/static/js/main.cbcd77d6.chunk.js.map",
+    "runtime~main.js": "/Technical-Page/static/js/runtime~main.c543fae5.js",
+    "runtime~main.js.map": "/Technical-Page/static/js/runtime~main.c543fae5.js.map",
+    "static/js/2.b41502e9.chunk.js": "/Technical-Page/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/Technical-Page/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/Technical-Page/index.html",
+    "precache-manifest.8a8b63e9e05857339b0d4eba2a61d541.js": "/Technical-Page/precache-manifest.8a8b63e9e05857339b0d4eba2a61d541.js",
+    "service-worker.js": "/Technical-Page/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/Technical-Page/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/Technical-Page/static/media/logo.5d5d9eef.svg"
+  }
+}
