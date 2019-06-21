@@ -1,5 +1,24 @@
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+.app{
+  top: 0%;
+  left: 0%;
 }
+
+.nav, .details{
+  height: 100%;
+  margin-right: 10px;
+  float: left;
+  padding: 0px;
+  display: block;
+  margin: 0px;
+  padding: 0px;
+
+}
+.nav{
+  background-color: #f1f1f1;
+ 
+}
+.details{
+  max-width: 80%;
+  float:right;
+}
+

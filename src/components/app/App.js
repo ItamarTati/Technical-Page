@@ -7,9 +7,9 @@ class App extends Component {
 
   render() {
     return (
-      <div>
-        <Details />
-        <Navigation />
+      <div className = 'app'>
+         <div className = 'nav' ><Navigation /></div>
+        <div className ='details' ><Details /></div>
       </div>
     );
   }

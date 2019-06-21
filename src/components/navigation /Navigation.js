@@ -5,12 +5,13 @@ class Navigation extends Component {
 
   render() {
     return (
-    <div>
+    <div>  
         <ul>
-            <li><a href="default.asp">Home</a></li>
-            <li><a href="news.asp">News</a></li>
-            <li><a href="contact.asp">Contact</a></li>
-            <li><a href="about.asp">About</a></li>
+        <h1>React Document</h1>
+            <li><a >Home</a></li>
+            <li><a >News</a></li>
+            <li><a >Contact</a></li>
+            <li><a >About</a></li>
         </ul>
     </div>
     );
